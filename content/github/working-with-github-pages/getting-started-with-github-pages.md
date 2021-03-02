@@ -12,4 +12,5 @@ versions:
   enterprise-server: '*'
   github-ae: '*'
 ---
-
+The secret in GitHub is read, read, think, think, before a task begin.
+It is not like Word or Excel. It is about complex and rich work.
